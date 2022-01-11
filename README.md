@@ -1,11 +1,11 @@
-# _Peek-a-Boo_
+# _Colors_
 
 #### By
 
 - _**Kevin Williams <https://github.com/k9w>**_
 - _**Jase Seeley <jcseeley31590@yahoo.com>**_
 
-#### _Our first project with jQuery_
+#### _Second project with jQuery_
 
 ## Technologies Used
 
@@ -14,11 +14,11 @@
 
 ## Description
 
-_This is the first Javascript and jQuery page assigned for pair programming on Tuesday January 11th 2022 at [Epicodus](https://epicodus.com)._
+_This is the second Javascript and jQuery page assigned for pair programming on Tuesday January 11th 2022 at [Epicodus](https://epicodus.com)._
 
 _From [our curriculum](https://learnhowtoprogram.com), the assignment:_
 
-[Simple Effects](https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-jquery/simple-effects)
+[jQuery: Add and Remove Classes](https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-jquery/jquery-add-and-remove-classes)
 
 _You can find more of our work at:_
 
@@ -27,9 +27,9 @@ _You can find more of our work at:_
 
 ## Setup/Installation Requirements
 
-- _Live site: <https://jcseeley.github.io/peek-a-boo>_
+- _Live site: <https://jcseeley.github.io/colors>_
 - _To contribute, clone the repo from:_
-- _<https://github.com/jcseeley/peek-a-boo>_
+- _<https://github.com/jcseeley/colors>_
 
 ## Known Bugs
 
