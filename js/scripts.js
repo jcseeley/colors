@@ -10,4 +10,8 @@ $(document).ready(function() {
   $("button#red").click(function() {
     $("body").css("background-color", "red");
   });
+
+  $("button#reset").click(function() {
+    $("body").css("background-color", "");
+  });
 });
